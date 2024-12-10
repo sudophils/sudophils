@@ -52,7 +52,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.phixlab.com"><img src="https://img.shields.io/badge/-phixlab.com-3423A6?style=flat&logo=Web&logoColor=red"/></a>
+<!-- <a href="https://www.phixlab.com"><img src="https://img.shields.io/badge/-phixlab.com-3423A6?style=flat&logo=Web&logoColor=red"/></a> -->
 <!-- <a href="https://linkedin.com/in/philipsniche"><img src="https://img.shields.io/badge/-Philips%20Ucheolisah-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> -->
 <a href="mailto:philips.nge@gmail.com"><img src="https://img.shields.io/badge/philips.nge@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://youtube.com/@phixlab"><img src="https://img.shields.io/badge/youtube-D14836?style=flat&logo=Youtube&logoColor=black"/></a>
