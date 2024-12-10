@@ -8,7 +8,6 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🌱 &nbsp;I'm on track for becoming paractical and build something with Maths, Blockchaain, Artificial Intelligence, Systems Design, and Cloud Architecture.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and speaking at your event, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at philips.nge@gmail.com I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at our youtube channel [PHIXLAB](https://youtube.com/@phixlab)  and subscribe if you find useful content wher I share what i do and what i've learnt. I'm open to feedback and suggestions!
 
 <img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"/>
@@ -54,7 +53,7 @@
 
 <p align="center">
 <a href="https://www.phixlab.com"><img src="https://img.shields.io/badge/-phixlab.com-3423A6?style=flat&logo=Web&logoColor=red"/></a>
-<a href="https://linkedin.com/in/philipsniche"><img src="https://img.shields.io/badge/-Philips%20Ucheolisah-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<!-- <a href="https://linkedin.com/in/philipsniche"><img src="https://img.shields.io/badge/-Philips%20Ucheolisah-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> -->
 <a href="mailto:philips.nge@gmail.com"><img src="https://img.shields.io/badge/philips.nge@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://youtube.com/@phixlab"><img src="https://img.shields.io/badge/youtube-D14836?style=flat&logo=Youtube&logoColor=black"/></a>
 
